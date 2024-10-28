@@ -19,4 +19,9 @@
 
 ## System Evaluation
 - Good:
+  - Transparency: Easy to understand and interpret why certain movies are recommended to the user.
+  - Effective with limited data: Works well as it relies on item features
 - Bad:
+  - Narrow recommendations: Mainly based on the content (genres, tags) of the movie.
+  - Cold start for new users: Without any user preferences, it will be difficult to make effective recommendations.
+  - Scalability: The system can become significantly slower as the dataset size grows.
