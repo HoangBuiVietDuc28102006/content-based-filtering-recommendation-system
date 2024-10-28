@@ -1,4 +1,4 @@
 # Content-based Filtering Recommendation System
 
 ## Content-based filtering
-![Recommendation Diagram](Content-based Filtering Diagram.png)
+![Recommendation Diagram](Content-based%20Filtering%20Diagram.png)
