@@ -1,8 +1,3 @@
-# content-based-filtering-recommendation-system
+# Content-based Filtering Recommendation System
 
-## Project evaluation
-    Good:
-        2. 
-        
-    Bad:
-        1. 
+## Content-based filtering
